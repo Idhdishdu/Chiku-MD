@@ -7,15 +7,15 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['201098906252']
-global.OwnerNumber = ['201098906252']
-global.ownertag = ['201098906252']
-global.BotName = "❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️"
-global.packname = "★الجزار الرزير يروحي]★"
-global.author = "★01098906252★"
-global.OwnerName = "ᗴᒪᘜᗩᘔᗩᖇ ᗩᒪᗯᗩᘔᗴᖇ❤️"
-global.BotSourceCode = "https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g"
-global.SupportGroupLink = "https://chat.whatsapp.com/CMp1e9NHmHU5K5sCM2mmKn"
+global.Owner = ['201015027470']
+global.OwnerNumber = ['201015027470']
+global.ownertag = ['201015027470']
+global.BotName = "❤️𝘉𝘖𝘛 𝘏𝘌𝘕𝘙𝘠 𝘌𝘓𝘔𝘖𝘋𝘈𝘔𝘌𝘙❤ `️"
+global.packname = "★هينري يروحي★"
+global.author = "★01015027470 ★"
+global.OwnerName = "𝘏𝘌𝘕𝘙𝘠 𝘌𝘓𝘔𝘖𝘋𝘈𝘔𝘌𝘙❤ `️"
+global.BotSourceCode = "https://www.facebook.com/profile.php?id=100059340367686"
+global.SupportGroupLink = "https://www.facebook.com/profile.php?id=100059340367686"
 global.sessionName = "session"
 
 // Prefix //
@@ -27,7 +27,7 @@ global.location = "bihar, India"
 global.reactmoji = "❤️"
 global.themeemoji = "🍭"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
-global.websitex = "https://github.com/Ayush-pandey-u/Chiku-MD"
+global.websitex = "https://www.facebook.com/profile.php?id=100059340367686"
 global.lolhuman = "KaysaS"
 
 
