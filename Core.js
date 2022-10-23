@@ -1481,13 +1481,13 @@ if (isBanChat) return reply(mess.banChat)
 reply(` Don't forget to join yeah/لا تنسي الانضمام معنا❤️!
 
 *GROUP/جروب 1*
-https://chat.whatsapp.com/CMp1e9NHmHU5K5sCM2mmKn
+https://chat.whatsapp.com/FJu4OAbyvh7Apv7YQcL65S
 
-*GROUP/جروب 2*
-https://chat.whatsapp.com/JUngwIYTMVzCxMuismJuOY
+*المطور*
+https://wa.me/qr/UNCCRVVZ2XPAB1
 
-*GROUP/جروب 3*
-https://chat.whatsapp.com/CMp1e9NHmHU5K5sCM2mmKn`)
+*البوت*
+`)https://wa.me/qr/SSHEZJK6TJOQO1
 break
 case 'getsxvdxcmd': {
 if (isBan) return reply(mess.ban)	 			
@@ -1506,25 +1506,25 @@ case 'support': case 'الدعم':
 
 case 'الشرح': case 'الوصف':
     
-    reply(`*⌬━─━─｢🤖｣─━─━⌬*
-*↵｢مــــــرحبــاً بكم 🗿｣*
+    reply(`*⌬━─━─☁️｣─━─━⌬*
+*↵｢🤩مــــــرحبــاً بكم🤩｣*
 
-*↵｢قروب تعليم صناعة البوتات 😁｣*
+*↵｢🤩بوت ساتو🤩｣*
 
 *↵｢المقدم｣*
 
-*↵｢اياتو سينسي | رايزل سينسي | لوفي عمكم سينسي｣*
-*↵｢كيف تسوي بوت عربي｣*
-*↵｢ https://youtu.be/MBPIx3f-VIA ｣*
-*↵｢كيف تعدل على اوامر البوت العربي｣*
-*↵｢https://youtu.be/NQBGISZsBdU｣*
-*｢رابط الاوامر الجديدة｣*
-*｢https://youtu.be/zA_AF7EtKn4｣*
-*↵｢نرجو ان تعملو لايك والاشتراك منها عشان يكبر جروب التعليم ومنها عشان ينتشر الفيديو والكل يستفيد✨🤗｣*
+*↵｢ارمين｣*
+*↵｢اخبار سكاي للانمي｣*
+*↵｢https://chat.whatsapp.com/FJu4OAbyvh7Apv7YQcL65S｣*
+*↵｢صحيفة سكاي｣*
+*↵｢https://chat.whatsapp.com/FJu4OAbyvh7Apv7YQcL65S｣*
+*｢ارمين خاص｣*
+*｢https://wa.me/qr/UNCCRVVZ2XPAB1｣*
+*↵｢خش ندردش سوا｣*
 
-*↵｢القروب｣*
-*↵｢ https://chat.whatsapp.com/CMp1e9NHmHU5K5sCM2mmKn ｣*
-*⌬━─━─｢🤖｣─━─━⌬*`)
+*↵｢البوت｣*
+*↵｢https://wa.me/qr/SSHEZJK6TJOQO1｣*
+*⌬━─━─｢☁️｣─━─━⌬*`)
     break
 
 case 'قائمه.الاباحي':
@@ -4826,7 +4826,7 @@ case 'help': case 'القائمه': case 'menu': case 'allmenu': case 'الاو�
       
  const helpmenu = `Hii/هاي *${pushname}*,
 
-I am *ᕼᗴᑎᖇY ᗷOT❤️*, a bot developed by *ᕼᗴᑎᖇY ᗴᒪᗰOᗪᗩᗰᗴᖇ❤️*/ أنا * ᕼᗴᑎᖇY ᗷOT❤️ * ، روبوت تم تطويره بواسطة * ᕼᗴᑎᖇY ᗴᒪᗰOᗪᗩᗰᗴᖇ❤️ *.
+I am *☁️Armin☁️*, a bot developed by *☁️Mohammad Anwer☁️*/ أنا *☁️Sato Rebot☁️* ، روبوت تم تطويره بواسطة *☁️Mohammad Anwer☁️*.
 
 ♠️ My prefix is/البادئة الخاصة بي هي:  ${prefix}
  
