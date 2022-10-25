@@ -1531,7 +1531,7 @@ case 'قائمه.الاباحي':
     if (isBan) return reply(mess.banned)	 			
     if (isBanChat) return reply(mess.bangc)
     if (!AntiNsfw) return reply(mess.nonsfw)
-        reply(` *━━━〈  📛 NSFW Menu/قائمه الاباحي 📛  〉━━━*\n\nمفيش اباحي ولا حاجه يعم صلي علي النبي في قلبك وسيبك من اللي بتعملو دا🌚❤️`)
+        reply(` *━━━〈☎️ support Menu/قائمه الدعم الفنى☎️  〉━━━*\n\n<https://chat.whatsapp.com/f9xrc1ole0379pn3vttqzn>ده جروب الدعم الفنى و صلي علي النبي 🌚❤️`)
     break
 
 case 'reaction': case 'react': case 'reactions': case 'r':
@@ -5032,17 +5032,17 @@ I am *☁️Armin☁️*, a bot developed by *☁️Mohammad Anwer☁️*/ أن�
 🧨fliptext
 🧨toletter
 
- *━━━〈  💥 NSFW/قائمه الاباحي 💥  〉━━━*
+ *━━━〈  💥 support/قائمه الدعم الفنى   💥  〉━━━*
 
-🍁 click nsfw Button to act nsfw/انقر فوق زر الاباحي للعمل 🔞
+🍁 click nsfw Button to act nsfw/انقر فوق زر الدعم الفنى  للدخول في جروب الدعم
 
-🍁 Then type/ثم اكتب " *${prefix}قائمه.الاباحي* " to get full list of NSFW commands/للحصول على قائمة كاملة بأوامر الاباحي.
+🍁 Then type/ثم اكتب " *${prefix}قائمه.الدعم* " to get full list of NSFW commands/للحصول على لنك جروب الدعم الفنى .
 
 
 
 
  『  *${global.BotName}*  』
- Powered by: *ELGAZAR/تم التطوير بواسطه:هينري*
+ Powered by: *Armin/تم التطوير بواسطه:محمد*
 `
 
 
@@ -5050,7 +5050,8 @@ I am *☁️Armin☁️*, a bot developed by *☁️Mohammad Anwer☁️*/ أن�
 
     {buttonId: `-owner`, buttonText: {displayText: 'Bot Owner/مطور البوت'}, type: 1},
 
-    {buttonId: `-nsfw`, buttonText: {displayText: 'NSFW/الاباحي🤢'}, type: 1}
+    {buttonId: `support`, buttonText: {displayText: 'support/الدعم الفني '}, typ
+ typ
 
     ]
                 let buttonMessage = {
