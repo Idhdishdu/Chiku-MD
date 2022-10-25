@@ -1481,13 +1481,13 @@ if (isBanChat) return reply(mess.banChat)
 reply(` Don't forget to join yeah/لا تنسي الانضمام معنا❤️!
 
 *GROUP/جروب 1*
-https://chat.whatsapp.com/CMp1e9NHmHU5K5sCM2mmKn
+https://chat.whatsapp.com/FJu4OAbyvh7Apv7YQcL65S
 
-*GROUP/جروب 2*
-https://chat.whatsapp.com/JUngwIYTMVzCxMuismJuOY
+*المطور*
+https://wa.me/qr/UNCCRVVZ2XPAB1
 
-*GROUP/جروب 3*
-https://chat.whatsapp.com/CMp1e9NHmHU5K5sCM2mmKn`)
+*البوت*
+`)https://wa.me/qr/SSHEZJK6TJOQO1
 break
 case 'getsxvdxcmd': {
 if (isBan) return reply(mess.ban)	 			
@@ -1506,32 +1506,32 @@ case 'support': case 'الدعم':
 
 case 'الشرح': case 'الوصف':
     
-    reply(`*⌬━─━─｢🤖｣─━─━⌬*
-*↵｢مــــــرحبــاً بكم 🗿｣*
+    reply(`*⌬━─━─☁️｣─━─━⌬*
+*↵｢🤩مــــــرحبــاً بكم🤩｣*
 
-*↵｢قروب تعليم صناعة البوتات 😁｣*
+*↵｢🤩بوت ساتو🤩｣*
 
 *↵｢المقدم｣*
 
-*↵｢اياتو سينسي | رايزل سينسي | لوفي عمكم سينسي｣*
-*↵｢كيف تسوي بوت عربي｣*
-*↵｢ https://youtu.be/MBPIx3f-VIA ｣*
-*↵｢كيف تعدل على اوامر البوت العربي｣*
-*↵｢https://youtu.be/NQBGISZsBdU｣*
-*｢رابط الاوامر الجديدة｣*
-*｢https://youtu.be/zA_AF7EtKn4｣*
-*↵｢نرجو ان تعملو لايك والاشتراك منها عشان يكبر جروب التعليم ومنها عشان ينتشر الفيديو والكل يستفيد✨🤗｣*
+*↵｢ارمين｣*
+*↵｢اخبار سكاي للانمي｣*
+*↵｢https://chat.whatsapp.com/FJu4OAbyvh7Apv7YQcL65S｣*
+*↵｢صحيفة سكاي｣*
+*↵｢https://chat.whatsapp.com/FJu4OAbyvh7Apv7YQcL65S｣*
+*｢ارمين خاص｣*
+*｢https://wa.me/qr/UNCCRVVZ2XPAB1｣*
+*↵｢خش ندردش سوا｣*
 
-*↵｢القروب｣*
-*↵｢ https://chat.whatsapp.com/CMp1e9NHmHU5K5sCM2mmKn ｣*
-*⌬━─━─｢🤖｣─━─━⌬*`)
+*↵｢البوت｣*
+*↵｢https://wa.me/qr/SSHEZJK6TJOQO1｣*
+*⌬━─━─｢☁️｣─━─━⌬*`)
     break
 
 case 'قائمه.الاباحي':
     if (isBan) return reply(mess.banned)	 			
     if (isBanChat) return reply(mess.bangc)
     if (!AntiNsfw) return reply(mess.nonsfw)
-        reply(` *━━━〈  📛 NSFW Menu/قائمه الاباحي 📛  〉━━━*\n\nمفيش اباحي ولا حاجه يعم صلي علي النبي في قلبك وسيبك من اللي بتعملو دا🌚❤️`)
+        reply(` *━━━〈☎️ support Menu/قائمه الدعم الفنى☎️  〉━━━*\n\n<https://chat.whatsapp.com/f9xrc1ole0379pn3vttqzn>ده جروب الدعم الفنى و صلي علي النبي 🌚❤️`)
     break
 
 case 'reaction': case 'react': case 'reactions': case 'r':
@@ -4826,7 +4826,7 @@ case 'help': case 'القائمه': case 'menu': case 'allmenu': case 'الاو�
       
  const helpmenu = `Hii/هاي *${pushname}*,
 
-I am *ᕼᗴᑎᖇY ᗷOT❤️*, a bot developed by *ᕼᗴᑎᖇY ᗴᒪᗰOᗪᗩᗰᗴᖇ❤️*/ أنا * ᕼᗴᑎᖇY ᗷOT❤️ * ، روبوت تم تطويره بواسطة * ᕼᗴᑎᖇY ᗴᒪᗰOᗪᗩᗰᗴᖇ❤️ *.
+I am *☁️Armin☁️*, a bot developed by *☁️Mohammad Anwer☁️*/ أنا *☁️Sato Rebot☁️* ، روبوت تم تطويره بواسطة *☁️Mohammad Anwer☁️*.
 
 ♠️ My prefix is/البادئة الخاصة بي هي:  ${prefix}
  
@@ -5032,17 +5032,17 @@ I am *ᕼᗴᑎᖇY ᗷOT❤️*, a bot developed by *ᕼᗴᑎᖇY ᗴᒪᗰO�
 🧨fliptext
 🧨toletter
 
- *━━━〈  💥 NSFW/قائمه الاباحي 💥  〉━━━*
+ *━━━〈  💥 support/قائمه الدعم الفنى   💥  〉━━━*
 
-🍁 click nsfw Button to act nsfw/انقر فوق زر الاباحي للعمل 🔞
+🍁 click nsfw Button to act nsfw/انقر فوق زر الدعم الفنى  للدخول في جروب الدعم
 
-🍁 Then type/ثم اكتب " *${prefix}قائمه.الاباحي* " to get full list of NSFW commands/للحصول على قائمة كاملة بأوامر الاباحي.
+🍁 Then type/ثم اكتب " *${prefix}قائمه.الدعم* " to get full list of NSFW commands/للحصول على لنك جروب الدعم الفنى .
 
 
 
 
  『  *${global.BotName}*  』
- Powered by: *ELGAZAR/تم التطوير بواسطه:هينري*
+ Powered by: *Armin/تم التطوير بواسطه:محمد*
 `
 
 
@@ -5050,7 +5050,8 @@ I am *ᕼᗴᑎᖇY ᗷOT❤️*, a bot developed by *ᕼᗴᑎᖇY ᗴᒪᗰO�
 
     {buttonId: `-owner`, buttonText: {displayText: 'Bot Owner/مطور البوت'}, type: 1},
 
-    {buttonId: `-nsfw`, buttonText: {displayText: 'NSFW/الاباحي🤢'}, type: 1}
+    {buttonId: `support`, buttonText: {displayText: 'support/الدعم الفني '}, typ
+ typ
 
     ]
                 let buttonMessage = {
